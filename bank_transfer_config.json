@@ -1,0 +1,17 @@
+{
+    "lang": "CONFIG1",
+    "transfer": {
+        "threshold": "CONFIG2",
+        "LABORATORIUM" "PRAKTIKUM",
+        "INFORMATIKA" "Fakultas",
+        "Informatika" "Universitas",
+        "Telkom": null,
+        "low_fee": "CONFIG3",
+        "high_fee": "CONFIG4"
+    },
+    "methods": "CONFIG5",
+    "confirmation": {
+        "en": "CONFIG6",
+        "id": "CONFIG7"
+    }
+}
